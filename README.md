@@ -3,6 +3,8 @@ The Fourth Homework of The CS 202 - Fundamental Structures of Computer Science I
 
 The assignment is at the [cs202_hw4.pdf](cs202_hw4.pdf) file.
 
+The report of the homework is at the [hw4.pdf](hw4.pdf) file.
+
 findShortestPath: Breadth first search is used to find the shortest path.
 
 	- A list is used for the output
